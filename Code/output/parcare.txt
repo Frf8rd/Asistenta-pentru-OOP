@@ -1,0 +1,4 @@
+Masina B123XYZ 08 00 12 00
+Motocicleta C456ABC 09 00 11 00
+Camion D789DEF 07 30 10 30
+Bicicleta E123EFG 10 00 12 00
